@@ -1,0 +1,10 @@
+## .NET / Rider build output
+bin/
+obj/
+.idea/
+*.user
+*.suo
+
+## OS files
+.DS_Store
+Thumbs.db
