@@ -1,6 +1,9 @@
 ﻿public class Ui
 {
-    public float ScoreMultiplier = 1776f;
+    // sup people reading my comment
+    // Heres a riddle:
+    // What has a bed but never sleeps?
+    public float ScoreMultiplier = 69f;
 
     public void DisplayScore(int score)
     {
